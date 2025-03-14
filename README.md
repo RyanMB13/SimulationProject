@@ -1,6 +1,5 @@
-<<<<<<< Updated upstream
 # SimulationProject
-CSARCH2 Simulation Project Grouo 5 (Direct Mapping)
+CSARCH2 Simulation Project Group 5
 =======
 # Direct Mapped Cache Simulator
 
