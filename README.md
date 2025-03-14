@@ -1,4 +1,3 @@
-# SimulationProject
 CSARCH2 Simulation Project Group 5
 =======
 # Direct Mapped Cache Simulator
