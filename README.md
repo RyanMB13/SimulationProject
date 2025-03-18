@@ -159,3 +159,7 @@ Each memory access results in one of two outcomes:
 
 The direct-mapped cache simulation provides insights into cache behavior under different access patterns. Sequential access benefits from locality, random access suffers from high misses, and mid-repeat access demonstrates cache reuse limitations. By analyzing hit rates, miss rates, and access times, this simulation illustrates the efficiency and constraints of direct-mapped caching in modern computing environments.
 >>>>>>> Stashed changes
+
+## walkthrough
+https://drive.google.com/drive/folders/1pgrg4XeChwLtZQyniQE_Eo9k-HqiDW5I?usp=sharing
+
